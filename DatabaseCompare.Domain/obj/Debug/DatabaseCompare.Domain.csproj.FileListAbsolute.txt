@@ -1,0 +1,31 @@
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\DatabaseCompare.Domain.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\DatabaseCompare.Domain.pdb
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csprojAssemblyReference.cache
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csproj.CoreCompileInputs.cache
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.pdb
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\Google.Protobuf.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\MySql.Data.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\Google.Protobuf.xml
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\MySql.Data.xml
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csproj.CopyComplete
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\DatabaseCompare.Domain.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\DatabaseCompare.Domain.pdb
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\Google.Protobuf.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\MySql.Data.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\Google.Protobuf.xml
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\MySql.Data.xml
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csprojResolveAssemblyReference.cache
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.pdb
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\DatabaseCompare.Domain.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\DatabaseCompare.Domain.pdb
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\Google.Protobuf.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\MySql.Data.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\Google.Protobuf.xml
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\bin\Debug\MySql.Data.xml
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csprojAssemblyReference.cache
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csproj.CoreCompileInputs.cache
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.csproj.CopyComplete
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare.Domain\obj\Debug\DatabaseCompare.Domain.pdb

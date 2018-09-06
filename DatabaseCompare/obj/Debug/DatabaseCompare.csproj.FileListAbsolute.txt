@@ -1,0 +1,51 @@
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.exe
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.pdb
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.Domain.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.Domain.pdb
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csprojAssemblyReference.cache
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.ChangeScript.resources
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.MainForm.resources
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.GenerateResource.cache
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.CoreCompileInputs.cache
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.CopyComplete
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.exe
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.pdb
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.exe.config
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\MySql.Data.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\Google.Protobuf.dll
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\MySql.Data.xml
+C:\Users\u.vyas\Downloads\DatabaseCompare\DatabaseCompare\bin\Debug\Google.Protobuf.xml
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.exe.config
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.exe
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.pdb
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.exe
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.pdb
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.Domain.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\MySql.Data.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\Google.Protobuf.dll
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.Domain.pdb
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\MySql.Data.xml
+F:\$My Works\DatabaseCompare\DatabaseCompare\bin\Debug\Google.Protobuf.xml
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csprojResolveAssemblyReference.cache
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.ChangeScript.resources
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.MainForm.resources
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.GenerateResource.Cache
+F:\$My Works\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.ColumnSelection.resources
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.exe.config
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.exe
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.pdb
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.Domain.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\MySql.Data.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\Google.Protobuf.dll
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\DatabaseCompare.Domain.pdb
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\MySql.Data.xml
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\bin\Debug\Google.Protobuf.xml
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csprojAssemblyReference.cache
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.ChangeScript.resources
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.ColumnSelection.resources
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.MainForm.resources
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.GenerateResource.cache
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.CoreCompileInputs.cache
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.csproj.CopyComplete
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.exe
+E:\Uttam\Visual Studio 2015\Projects\DatabaseCompare\DatabaseCompare\DatabaseCompare\obj\Debug\DatabaseCompare.pdb

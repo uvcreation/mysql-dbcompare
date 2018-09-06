@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCompare", "DatabaseCompare\DatabaseCompare.csproj", "{1F53054F-4FAD-4EB6-AB70-57DDA62466F2}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseCompare.Domain", "DatabaseCompare.Domain\DatabaseCompare.Domain.csproj", "{EEAB54BC-12EE-4066-8ADF-E1BB8C29AFE6}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{1F53054F-4FAD-4EB6-AB70-57DDA62466F2}.Debug.ActiveCfg = Debug|.NET
+		{1F53054F-4FAD-4EB6-AB70-57DDA62466F2}.Debug.Build.0 = Debug|.NET
+		{1F53054F-4FAD-4EB6-AB70-57DDA62466F2}.Release.ActiveCfg = Release|.NET
+		{1F53054F-4FAD-4EB6-AB70-57DDA62466F2}.Release.Build.0 = Release|.NET
+		{EEAB54BC-12EE-4066-8ADF-E1BB8C29AFE6}.Debug.ActiveCfg = Debug|.NET
+		{EEAB54BC-12EE-4066-8ADF-E1BB8C29AFE6}.Debug.Build.0 = Debug|.NET
+		{EEAB54BC-12EE-4066-8ADF-E1BB8C29AFE6}.Release.ActiveCfg = Release|.NET
+		{EEAB54BC-12EE-4066-8ADF-E1BB8C29AFE6}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

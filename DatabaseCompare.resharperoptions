@@ -1,0 +1,140 @@
+<Configuration>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.Database">
+      <Item value="UserTables" priority="2" />
+      <Item value="StoredProcs" priority="0" />
+      <Item value="LoadObjects" priority="0" />
+      <Item value="TestConnection" priority="0" />
+      <Item value="Functions" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem">
+      <Item value="SubItems" priority="4" />
+      <Item value="Text" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlCommand">
+      <Item value="ExecuteReader" priority="2" />
+      <Item value="ExecuteScalar" priority="1" />
+      <Item value="CommandText" priority="3" />
+      <Item value="Parameters" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.Function">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.GroupBox">
+      <Item value="Enabled" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.UserTable">
+      <Item value="Name" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.Column">
+      <Item value="Scale" priority="0" />
+      <Item value="Type" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data">
+      <Item value="SqlClient" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:string">
+      <Item value="CompareTo" priority="1" />
+      <Item value="Trim" priority="4" />
+      <Item value="Length" priority="0" />
+      <Item value="ToLower" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Data.SqlClient">
+      <Item value="SqlConnection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlParameterCollection">
+      <Item value="Add" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.DBDifference">
+      <Item value="Type" priority="2" />
+      <Item value="Status" priority="0" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.View">
+      <Item value="Name" priority="0" />
+      <Item value="TextDefinition" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.StoredProc">
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView.SelectedListViewItemCollection">
+      <Item value="Count" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Sort" priority="0" />
+      <Item value="Add" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlConnection">
+      <Item value="Close" priority="0" />
+      <Item value="Open" priority="0" />
+      <Item value="CreateCommand" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.ChangeScript">
+      <Item value="ShowDialog" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Data.SqlClient.SqlDataReader">
+      <Item value="GetInt16" priority="0" />
+      <Item value="Read" priority="2" />
+      <Item value="GetString" priority="3" />
+      <Item value="GetInt32" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Hashtable">
+      <Item value="Values" priority="7" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="6" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.StatusBar">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView">
+      <Item value="SelectedItems" priority="1" />
+      <Item value="Enabled" priority="0" />
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListView.ListViewItemCollection">
+      <Item value="Add" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ICollection">
+      <Item value="Count" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DatabaseCompare.Domain.DatabaseObject">
+      <Item value="Columns" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.StringBuilder">
+      <Item value="AppendFormat" priority="0" />
+      <Item value="ToString" priority="0" />
+      <Item value="Append" priority="3" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean />
+  </SettingsComponent>
+  <RecentFilesTracker>
+    <RecentFilesTracker>
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare\MainForm.cs" offset="24737" line="0" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\Function.cs" offset="285" line="250" column="13" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\StoredProc.cs" offset="897" line="11" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\View.cs" offset="922" line="12" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare\ChangeScript.cs" offset="1067" line="18" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\DBDifference.cs" offset="1087" line="18" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\DatabaseObject.cs" offset="0" line="8" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\Column.cs" offset="1039" line="19" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\Database.cs" offset="5508" line="80" column="0" />
+      <TrackedFile location="C:\Documents and Settings\Sean\My Documents\Visual Studio Projects\DatabaseCompare\DatabaseCompare.Domain\UserTable.cs" offset="265" line="0" column="0" />
+    </RecentFilesTracker>
+  </RecentFilesTracker>
+</Configuration>
